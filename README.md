@@ -30,3 +30,4 @@ best way to use this package is to check out this code as a git submodule and ad
 The unit tests should run cleanly and will start and stop OrientDB on the local machine themselves. You will likely need to change the values of
 the orientDBDir and jreDir variables in the AssemlySetup class to point correctly to your local OrientDB install and JRE/JDK for this to work 
 properly.
+ 
